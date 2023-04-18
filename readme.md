@@ -6,7 +6,7 @@
 
  - Chest X-Ray
  - Insurance Prediction
- - CI/CD
+ - CI/CD of SAM
 
 ## 1. Insurance Prediction
 
